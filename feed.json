@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "westcoastcurlingsolutions.ca",
+    "description": "",
+    "home_page_url": "https://WCCS-DRC.github.io/WCCS-Curl.github.io",
+    "feed_url": "https://WCCS-DRC.github.io/WCCS-Curl.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dale Cameron"
+    },
+    "items": [
+        {
+            "id": "https://WCCS-DRC.github.io/WCCS-Curl.github.io/curling-help-just-the-way-you-need-it.html",
+            "url": "https://WCCS-DRC.github.io/WCCS-Curl.github.io/curling-help-just-the-way-you-need-it.html",
+            "title": "Curling help just the way you need it",
+            "summary": "Check Back later as we build this out.",
+            "content_html": "<p>Check Back later as we build this out.</p>",
+            "author": {
+                "name": "Dale Cameron"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-15T17:44:15-07:00",
+            "date_modified": "2026-06-15T18:40:20-07:00"
+        }
+    ]
+}

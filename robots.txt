@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://WCCS-DRC.github.io/WCCS-Curl.github.io/sitemap.xml

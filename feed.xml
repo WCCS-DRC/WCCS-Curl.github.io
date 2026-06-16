@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>westcoastcurlingsolutions.ca</title>
+    <link href="https://WCCS-DRC.github.io/WCCS-Curl.github.io/feed.xml" rel="self" />
+    <link href="https://WCCS-DRC.github.io/WCCS-Curl.github.io" />
+    <updated>2026-06-15T18:40:20-07:00</updated>
+    <author>
+        <name>Dale Cameron</name>
+    </author>
+    <id>https://WCCS-DRC.github.io/WCCS-Curl.github.io</id>
+
+    <entry>
+        <title>Curling help just the way you need it</title>
+        <author>
+            <name>Dale Cameron</name>
+        </author>
+        <link href="https://WCCS-DRC.github.io/WCCS-Curl.github.io/curling-help-just-the-way-you-need-it.html"/>
+        <id>https://WCCS-DRC.github.io/WCCS-Curl.github.io/curling-help-just-the-way-you-need-it.html</id>
+
+        <updated>2026-06-15T17:44:15-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Check Back later as we build this out.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Check Back later as we build this out.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
